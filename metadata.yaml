@@ -1,0 +1,33 @@
+_repo: Les-amours-jaunes_16883
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Corbière, Tristan
+    aliases:
+    - Corbière, Edouard-Joachim
+    - Corbiere, Tristan
+    birthdate: 1845
+    deathdate: 1875
+    gutenberg_agent_id: '6993'
+    url: http://www.gutenberg.org/2009/agents/6993
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Tristan_Corbi%C3%A8re
+    - http://fr.wikipedia.org/wiki/Tristan_Corbi%C3%A8re
+description: ''
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2005-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16883'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French poetry'
+- !lcc 'PQ'
+title: Les amours jaunes
+url: http://www.gutenberg.org/ebooks/16883
